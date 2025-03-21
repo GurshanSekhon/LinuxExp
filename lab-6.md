@@ -8,7 +8,7 @@ APPROACH: sudo useradd username command is used to add the new user . sudo passw
 
 <img width="612" alt="Screenshot 2025-03-21 at 7 00 15 PM" src="https://github.com/user-attachments/assets/5d73c363-1de9-4dc8-8b31-df6496afa01f" />
 
-  <img width="593" alt="Screenshot 2025-03-21 at 7 00 23 PM" src="https://github.com/user-attachments/assets/44b26194-e542-43b2-93e6-0a68eada9a3f" />
+
 
 <img width="808" alt="Screenshot 2025-03-21 at 7 00 33 PM" src="https://github.com/user-attachments/assets/e54144e9-1670-4d9d-857b-b4c9811a6dd0" />
 
